@@ -3,8 +3,8 @@ import { LegalPage } from "@/components/legal-page";
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>Ordinary Tyrannosaurus Wiki is an independent fan-built guide hub covering the dinosaur story, characters, world lore, gameplay systems, and essential resources for new and veteran players alike.</p>
+      <p>This fan wiki is not affiliated with or endorsed by the creators or rights holders of Ordinary Tyrannosaurus. Game details are updated as reliable information becomes available.</p>
     </LegalPage>
   );
 }

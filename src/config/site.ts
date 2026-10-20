@@ -25,7 +25,7 @@ export const siteConfig: SiteConfig = {
   tagline: "Dinosaur Story Guides, Characters & World Lore",
   description: "Explore Ordinary Tyrannosaurus with story guides, character details, world lore, and practical resources for every chapter.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://ordinary-tyrannosaurus.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://ordinary-tyrannosaurus.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@ordinary-tyrannosaurus.wiki",
   heroVideoId: "qTyCdijTvq0",
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",

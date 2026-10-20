@@ -35,8 +35,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       shortcut: "/favicon.ico",
       apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
     },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image, width: 1280, height: 720, alt: `${siteConfig.name} hero image` }] },
+    twitter: { card: "summary_large_image", title: "Ordinary Tyrannosaurus Wiki", description: siteConfig.description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
