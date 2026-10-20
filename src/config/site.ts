@@ -27,6 +27,6 @@ export const siteConfig: SiteConfig = {
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://ordinary-tyrannosaurus.wiki",
   supportEmail: "support@ordinary-tyrannosaurus.wiki",
   heroVideoId: "qTyCdijTvq0",
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt-BR", "fr"],
   defaultLocale: "en",
 };
