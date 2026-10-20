@@ -9,7 +9,13 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "characters": "Characters",
+    "story": "Story",
+    "platforms": "Platforms",
+    "dinosaurs": "Dinosaurs",
+    "media": "Media"
   },
   "home": {
     "meta": {
@@ -28,7 +34,7 @@
       ],
       "primaryCta": "Beginner Guide",
       "secondaryCta": "Game Overview",
-      "tertiaryCta": "Active Codes",
+      "tertiaryCta": "Dinosaur Facts",
       "videoLabel": "Dinosaur story preview"
     },
     "updates": {
@@ -397,7 +403,30 @@
       "secondary": "Platform Details TBA"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Ordinary Tyrannosaurus Guides",
+    "overviewDescription": "Start with chapter-one explainers, reading-order advice, and beginner-friendly entry points to the Ordinary Tyrannosaurus webtoon."
+  },
+  "characters": {
+    "overviewTitle": "Ordinary Tyrannosaurus Characters",
+    "overviewDescription": "Meet the ordinary T. rex, the Demon King, and the supporting figures who shape the story's misunderstandings and growing reputation."
+  },
+  "story": {
+    "overviewTitle": "Ordinary Tyrannosaurus Story",
+    "overviewDescription": "Follow the plot, the Demon King encounter, the Odyssey threads, and the latest chapter developments in reading order."
+  },
+  "platforms": {
+    "overviewTitle": "Ordinary Tyrannosaurus Platforms",
+    "overviewDescription": "Find practical reading, release, translation, community, and official-website information for the Ordinary Tyrannosaurus series."
+  },
+  "dinosaurs": {
+    "overviewTitle": "Ordinary Tyrannosaurus Dinosaurs",
+    "overviewDescription": "Explore T. rex anatomy, dinosaur history, evolution, and the facts that separate the series lead from familiar dinosaur tropes."
+  },
+  "media": {
+    "overviewTitle": "Ordinary Tyrannosaurus Media",
+    "overviewDescription": "Browse animation, episode, trailer, and illustration guides for Ordinary Tyrannosaurus and its adaptations."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -424,14 +453,14 @@
     "copyright": "2026 Ordinary Tyrannosaurus Wiki. Not affiliated with the game's creators or rights holders.",
     "description": "Independent fan wiki for Ordinary Tyrannosaurus story, characters, world lore, and guides.",
     "playGame": "Game Overview",
-    "activeCodes": "Active Codes",
+    "characters": "Characters",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
     "gameOverview": "Game Overview",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "storyGuides": "Story Guides",
+    "dinosaurGuides": "Dinosaur Guides",
+    "mediaGuides": "Media Guides",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
