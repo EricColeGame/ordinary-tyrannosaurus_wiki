@@ -1,1 +1,467 @@
-{}
+{
+  "site": {
+    "name": "Ordinary Tyrannosaurus Wiki",
+    "shortName": "Ordinary Tyrannosaurus",
+    "tagline": "Guías de historia, personajes y lore del mundo de dinosaurios",
+    "description": "Explora Ordinary Tyrannosaurus con guías de historia, detalles de personajes, lore del mundo y recursos prácticos para cada capítulo.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por fans, para fans."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "characters": "Personajes",
+    "story": "Historia",
+    "platforms": "Plataformas",
+    "dinosaurs": "Dinosaurios",
+    "media": "Medios"
+  },
+  "home": {
+    "meta": {
+      "title": "Ordinary Tyrannosaurus Wiki: guías y consejos",
+      "description": "Explora guías de Ordinary Tyrannosaurus, consejos de lectura, datos sobre dinosaurios, estrategias para principiantes y novedades verificadas para entender la serie y leerla en orden."
+    },
+    "hero": {
+      "eyebrow": "Wiki de historia de dinosaurios",
+      "title": "Ordinary Tyrannosaurus Wiki",
+      "description": "Explora Ordinary Tyrannosaurus con guías de historia, detalles de personajes, lore del mundo, consejos para principiantes y novedades verificadas.",
+      "stats": [
+        "Historia de dinosaurios",
+        "Guías de personajes",
+        "Lore del mundo",
+        "Consejos para principiantes"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Resumen de la serie",
+      "tertiaryCta": "Datos de dinosaurios",
+      "videoLabel": "Avance de la historia de dinosaurios"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu recorrido por Ordinary Tyrannosaurus",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Empieza por la premisa, el protagonista dinosaurio y una ruta por el capítulo uno con pocos spoilers."
+        },
+        {
+          "number": "2",
+          "title": "Orden de la historia",
+          "description": "Sigue la transferencia sin explicación, el encuentro con el Rey Demonio y las consecuencias crecientes en orden de lectura."
+        },
+        {
+          "number": "3",
+          "title": "Guía de personajes",
+          "description": "Conoce al T. rex ordinario, al Rey Demonio y a los espectadores que convierten cada malentendido en una leyenda."
+        },
+        {
+          "number": "4",
+          "title": "Último capítulo",
+          "description": "Usa la lista de la serie oficial para ponerte al día, guardar los nuevos lanzamientos y evitar páginas espejo desactualizadas."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Guías de Ordinary Tyrannosaurus más consultadas",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Guía de historia",
+        "Personajes",
+        "Leer en línea"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes de Ordinary Tyrannosaurus",
+          "description": "Empieza por la premisa, el tono cómico y una ruta práctica por el capítulo uno.",
+          "href": "/guide/ordinary-tyrannosaurus-chapter-1"
+        },
+        {
+          "badge": "Historia",
+          "title": "La historia de Ordinary Tyrannosaurus explicada",
+          "description": "Sigue la premisa isekai del T. rex, el giro del Rey Demonio y la estructura de comedia de acción de la serie.",
+          "href": "/story/ordinary-tyrannosaurus-story"
+        },
+        {
+          "badge": "Personajes",
+          "title": "Protagonista dinosaurio",
+          "description": "Conoce al T. rex ordinario cuyo apetito y masa reescriben la jerarquía de poder de un mundo fantástico.",
+          "href": "/characters/ordinary-tyrannosaurus-dinosaur-protagonist"
+        },
+        {
+          "badge": "Plataformas",
+          "title": "Leer Ordinary Tyrannosaurus en línea",
+          "description": "Encuentra la serie, entiende el formato de desplazamiento vertical y crea una rutina de lectura segura.",
+          "href": "/platforms/ordinary-tyrannosaurus-read-online"
+        },
+        {
+          "badge": "Historia",
+          "title": "Trama y encuentro con el Rey Demonio",
+          "description": "Descubre cómo una comida accidental crea la reputación que impulsa toda la historia.",
+          "href": "/story/ordinary-tyrannosaurus-plot"
+        },
+        {
+          "badge": "Guía",
+          "title": "Guía de lectura del cartoon en línea",
+          "description": "Un punto de entrada capítulo a capítulo para lectores que descubrieron la serie mediante clips cortos.",
+          "href": "/guide/ordinary-tyrannosaurus-cartoon-online"
+        },
+        {
+          "badge": "Historia",
+          "title": "Ponte al día con el último capítulo",
+          "description": "Repasa los momentos clave, vuelve al episodio correcto y consulta los canales oficiales de lanzamiento.",
+          "href": "/story/ordinary-tyrannosaurus-latest-chapter"
+        },
+        {
+          "badge": "Guía",
+          "title": "Guía de lectura del manhwa",
+          "description": "Entiende el formato del webtoon coreano y la mejor forma de empezar la serie en orden.",
+          "href": "/guide/ordinary-tyrannosaurus-manhwa"
+        },
+        {
+          "badge": "Plataformas",
+          "title": "Lanzamientos y disponibilidad de capítulos",
+          "description": "Usa la guía de lanzamientos para seguir los capítulos oficiales sin depender de páginas espejo.",
+          "href": "/platforms/ordinary-tyrannosaurus-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Ordinary Tyrannosaurus?",
+      "paragraphs": [
+        "Ordinary Tyrannosaurus es un manhwa coreano con estilo de webtoon sobre un Tyrannosaurus rex completamente ordinario al que sacan de su vida prehistórica y lanzan a un mundo fantástico sin profecía, sistema ni habilidad trampa. Su ventaja es sencilla: tamaño, dientes, apetito y el hecho de que nadie en el nuevo mundo ha planeado cómo enfrentar a un dinosaurio.",
+        "La historia gira en torno a un accidente absurdo: el T. rex se come al Rey Demonio y hereda la reputación y la persecución monstruosa sin fin que vienen con ello. El comportamiento impasible del dinosaurio choca con un mundo que interpreta cada acción común como un evento de extinción, y de ahí surge el ritmo de comedia de acción de la serie."
+      ],
+      "stats": [
+        {
+          "label": "Formato",
+          "value": "Manhwa webtoon"
+        },
+        {
+          "label": "Género",
+          "value": "Comedia isekai"
+        },
+        {
+          "label": "Protagonista",
+          "value": "T. rex ordinario"
+        },
+        {
+          "label": "Escenario",
+          "value": "Mundo de fantasía"
+        },
+        {
+          "label": "Gancho central",
+          "value": "Encuentro con el Rey Demonio"
+        },
+        {
+          "label": "Lectura",
+          "value": "Desplazamiento vertical"
+        }
+      ],
+      "cta": "Explorar guías de historia"
+    },
+    "explore": {
+      "title": "Explora la wiki de Ordinary Tyrannosaurus",
+      "description": "Sigue la ruta de lectura completa de Ordinary Tyrannosaurus: empieza por el capítulo uno, entiende la historia y los personajes, consulta la guía de plataformas y sigue cada nuevo lanzamiento.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Ordinary Tyrannosaurus",
+          "description": "Presenta la premisa, el protagonista no humano, el formato de desplazamiento vertical y una ruta con pocos spoilers hacia el capítulo uno.",
+          "href": "/guide/ordinary-tyrannosaurus-chapter-1",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Conoce al T. rex ordinario antes de la transferencia sin explicación a un mundo fantástico."
+            },
+            {
+              "label": "2",
+              "detail": "Lee la apertura para captar la premisa, la voz cómica y los gags visuales escondidos en los fondos."
+            },
+            {
+              "label": "3",
+              "detail": "Trata el encuentro con el Rey Demonio como el gancho de la serie, no como un clip aislado."
+            },
+            {
+              "label": "4",
+              "detail": "Continúa en orden para que funcionen la escalada y los malentendidos recurrentes."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de la historia de Ordinary Tyrannosaurus",
+          "description": "Entiende el motor narrativo: una transferencia isekai sin explicación, un encuentro accidental con el Rey Demonio y una reputación que atrae a monstruos cada vez más fuertes.",
+          "href": "/story/ordinary-tyrannosaurus-story",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Transferencia",
+              "detail": "El T. rex llega a un mundo fantástico sin ritual de invocación, tutorial ni preparación de elegido."
+            },
+            {
+              "label": "Accidente",
+              "detail": "Un enfrentamiento con el Rey Demonio termina cuando el dinosaurio trata al jefe final como comida."
+            },
+            {
+              "label": "Consecuencias",
+              "detail": "Los monstruos persiguen a la nueva leyenda y convierten un gag de un solo panel en una amenaza continua."
+            },
+            {
+              "label": "Instinto",
+              "detail": "El hambre, el tamaño y el impulso sustituyen las pantallas de estadísticas y la planificación de habilidades."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Enlaces oficiales de Ordinary Tyrannosaurus",
+          "description": "Ordinary Tyrannosaurus es un webtoon, no un juego con códigos, así que no hay códigos canjeables; usa esta lista para encontrar lanzamientos oficiales y evitar páginas espejo desactualizadas.",
+          "href": "/platforms/ordinary-tyrannosaurus-read-online",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Oficial",
+              "detail": "Empieza buscando en la editorial o en una plataforma con licencia, no en una búsqueda web general."
+            },
+            {
+              "label": "Título",
+              "detail": "Busca tanto Ordinary Tyrannosaurus como el título coreano 평범한 티라노사우루스."
+            },
+            {
+              "label": "Archivo",
+              "detail": "Guarda la página de la serie para abrir los nuevos capítulos desde un catálogo estable."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Cómo leer en pantalla",
+          "description": "Recorre cómodamente el manhwa de desplazamiento vertical con controles táctiles, de ratón y de teclado, y usa las herramientas de la plataforma para no perder el punto.",
+          "href": "/platforms/ordinary-tyrannosaurus-read-online",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Desplazamiento",
+              "detail": "Usa un desplazamiento vertical continuo en el teléfono o la tableta para seguir el ritmo previsto de los episodios."
+            },
+            {
+              "label": "Deslizar",
+              "detail": "Desliza hacia arriba para avanzar entre paneles y hacia abajo para revisar una reacción o un gag de fondo."
+            },
+            {
+              "label": "Teclas",
+              "detail": "Usa Espacio, Av Pág o las teclas de flecha cuando leas en un navegador de escritorio."
+            },
+            {
+              "label": "Marcador",
+              "detail": "Guarda la página de la serie, no un episodio suelto, para volver a la lista actual de capítulos."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de progresión de la historia",
+          "description": "Sigue la escalada de la historia desde una vida prehistórica ordinaria hasta el encuentro con el Rey Demonio y sus consecuencias monstruosas.",
+          "href": "/story/ordinary-tyrannosaurus-plot",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Empieza con el T. rex viviendo una vida ordinaria en su propio mundo prehistórico."
+            },
+            {
+              "label": "2",
+              "detail": "Una transferencia sin explicación lleva al dinosaurio a un escenario fantástico de magia, demonios y aventureros."
+            },
+            {
+              "label": "3",
+              "detail": "Un enfrentamiento temprano termina con el Rey Demonio devorado y cambia de inmediato el equilibrio de poder."
+            },
+            {
+              "label": "4",
+              "detail": "Los monstruos y malentendidos cada vez mayores convierten al dinosaurio en una leyenda que nunca quiso ser."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Consejos y trucos de lectura",
+          "description": "Hábitos prácticos para seguir la comedia, mantener el orden de la historia y evitar clips cargados de spoilers.",
+          "href": "/guide/ordinary-tyrannosaurus-cartoon-online",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Orden",
+              "detail": "Empieza por el episodio uno; la recompensa del Rey Demonio depende de lo que se construye antes."
+            },
+            {
+              "label": "Oficial",
+              "detail": "Prefiere una plataforma con licencia para tener un archivo estable, mejor calidad y apoyo a los creadores."
+            },
+            {
+              "label": "Ritmo",
+              "detail": "Lee de cinco a diez episodios cortos seguidos para conectar los gags recurrentes y los momentos de reputación."
+            },
+            {
+              "label": "Spoilers",
+              "detail": "Silencia los hashtags de clips hasta ponerte al día; las ediciones virales comprimen arcos enteros."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Lista de niveles de personajes",
+          "description": "Una clasificación editorial de los papeles centrales de la historia según cuánto impulsan la comedia, la acción y la escalada.",
+          "href": "/characters/ordinary-tyrannosaurus-dinosaur-protagonist",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "El T. rex ordinario: el apetito, la masa y las reacciones impasibles impulsan todas las escenas importantes."
+            },
+            {
+              "label": "A",
+              "detail": "El Rey Demonio: una amenaza del nivel del género convertida en la recompensa definitoria de la serie."
+            },
+            {
+              "label": "B",
+              "detail": "Monstruos rivales: cada escalada pone a prueba la premisa y restablece el nivel de peligro."
+            },
+            {
+              "label": "C",
+              "detail": "Espectadores humanos: su pánico y sus interpretaciones erróneas venden el choque de escalas."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Preguntas frecuentes sobre Ordinary Tyrannosaurus",
+          "description": "Respuestas rápidas sobre el formato, el orden de la historia, las opciones oficiales de lectura y las novedades de capítulos.",
+          "href": "/platforms/ordinary-tyrannosaurus-read-online",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Formato",
+              "detail": "Ordinary Tyrannosaurus es un manhwa coreano con estilo de webtoon y desplazamiento vertical."
+            },
+            {
+              "label": "Inicio",
+              "detail": "Empieza por el capítulo uno y lee en orden para disfrutar toda la comedia y la escalada."
+            },
+            {
+              "label": "Lectura",
+              "detail": "Usa una editorial o plataforma de webtoon con licencia y guarda la página de la serie."
+            },
+            {
+              "label": "Novedades",
+              "detail": "Consulta la página oficial de la serie para ver nuevos episodios y el calendario de traducción."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Ordinary Tyrannosaurus",
+      "description": "Respuestas rápidas a preguntas comunes sobre el manhwa Ordinary Tyrannosaurus, su historia y dónde leerlo.",
+      "items": [
+        {
+          "question": "¿Qué es Ordinary Tyrannosaurus?",
+          "answer": "Ordinary Tyrannosaurus es un manhwa coreano con estilo de webtoon sobre un T. rex ordinario que es transportado al azar a un mundo fantástico. Mezcla comedia isekai con acción de monstruos y usa el apetito y el tamaño del dinosaurio como fuente tanto de su poder como de sus chistes."
+        },
+        {
+          "question": "¿Ordinary Tyrannosaurus es un juego o un webtoon?",
+          "answer": "Ordinary Tyrannosaurus es un manhwa con estilo de webtoon, no un videojuego. Se lee como un cómic de desplazamiento vertical, y esta wiki cubre su historia, personajes, orden de lectura y opciones de plataformas oficiales."
+        },
+        {
+          "question": "¿Debo empezar Ordinary Tyrannosaurus por el capítulo uno?",
+          "answer": "Sí. Empieza Ordinary Tyrannosaurus por el capítulo uno para que la premisa inicial, el encuentro con el Rey Demonio y los chistes sobre la reputación se desarrollen en el orden previsto."
+        },
+        {
+          "question": "¿Dónde puedo leer Ordinary Tyrannosaurus en línea?",
+          "answer": "Busca Ordinary Tyrannosaurus en una editorial o plataforma de webtoon con licencia y guarda la página de la serie en lugar de un capítulo individual. Así tendrás siempre a mano la lista oficial de episodios."
+        },
+        {
+          "question": "¿Ordinary Tyrannosaurus tiene códigos canjeables?",
+          "answer": "No. Ordinary Tyrannosaurus es un webtoon, no un juego basado en códigos, así que no hay códigos canjeables que introducir. Usa la guía de plataformas para encontrar episodios oficiales e información sobre lanzamientos."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para explorar Ordinary Tyrannosaurus?",
+      "description": "Sumérgete en guías de historia de dinosaurios, detalles de personajes, lore del mundo y consejos prácticos con nuestra wiki de fans independiente.",
+      "primary": "Explorar guías",
+      "secondary": "Guía de plataformas"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Ordinary Tyrannosaurus",
+    "overviewDescription": "Empieza con explicaciones del capítulo uno, consejos de orden de lectura y puntos de entrada para principiantes al webtoon Ordinary Tyrannosaurus."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Ordinary Tyrannosaurus",
+    "overviewDescription": "Conoce al T. rex ordinario, al Rey Demonio y a los personajes secundarios que dan forma a los malentendidos y la creciente reputación de la historia."
+  },
+  "story": {
+    "overviewTitle": "Historia de Ordinary Tyrannosaurus",
+    "overviewDescription": "Sigue la trama, el encuentro con el Rey Demonio, los hilos de la odisea y las novedades del último capítulo en orden de lectura."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas de Ordinary Tyrannosaurus",
+    "overviewDescription": "Encuentra información práctica sobre lectura, lanzamientos, traducciones, comunidad y sitios oficiales de la serie Ordinary Tyrannosaurus."
+  },
+  "dinosaurs": {
+    "overviewTitle": "Dinosaurios de Ordinary Tyrannosaurus",
+    "overviewDescription": "Explora la anatomía del T. rex, la historia y evolución de los dinosaurios, y los datos que separan al protagonista de los tópicos dinosaurios habituales."
+  },
+  "media": {
+    "overviewTitle": "Medios de Ordinary Tyrannosaurus",
+    "overviewDescription": "Explora guías de animación, episodios, tráileres e ilustraciones de Ordinary Tyrannosaurus y sus adaptaciones."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Ordinary Tyrannosaurus Wiki",
+    "about": "Ordinary Tyrannosaurus Wiki es un centro de guías independiente creado por fans que cubre la historia de dinosaurios, los personajes, el lore del mundo, los recursos de lectura y la información esencial para lectores nuevos y veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Ordinary Tyrannosaurus Wiki. No está afiliada a los creadores ni a los titulares de derechos de la serie.",
+    "description": "Wiki de fans independiente sobre la historia, los personajes, el lore del mundo y las guías de Ordinary Tyrannosaurus.",
+    "playGame": "Resumen de la serie",
+    "characters": "Personajes",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "gameOverview": "Resumen de la serie",
+    "beginnerGuide": "Guía para principiantes",
+    "storyGuides": "Guías de historia",
+    "dinosaurGuides": "Guías de dinosaurios",
+    "mediaGuides": "Guías de medios",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  }
+}

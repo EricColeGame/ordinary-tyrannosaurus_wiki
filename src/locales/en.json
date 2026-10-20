@@ -20,7 +20,7 @@
   "home": {
     "meta": {
       "title": "Ordinary Tyrannosaurus Wiki - Guides & Tips",
-      "description": "Explore Ordinary Tyrannosaurus guides, gameplay tips, dinosaur facts, beginner strategies, and verified updates to learn the game and play better."
+      "description": "Explore Ordinary Tyrannosaurus guides, reading tips, dinosaur facts, beginner strategies, and verified updates to understand the series and read in order."
     },
     "hero": {
       "eyebrow": "Dinosaur Story Wiki",
@@ -33,7 +33,7 @@
         "Beginner Tips"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Game Overview",
+      "secondaryCta": "Series Overview",
       "tertiaryCta": "Dinosaur Facts",
       "videoLabel": "Dinosaur story preview"
     },
@@ -400,7 +400,7 @@
       "title": "Ready to Explore Ordinary Tyrannosaurus?",
       "description": "Dive into dinosaur story guides, character details, world lore, and practical tips with our independent fan wiki.",
       "primary": "Browse Guides",
-      "secondary": "Platform Details TBA"
+      "secondary": "Platform Guide"
     }
   },
   "guide": {
@@ -446,17 +446,17 @@
   },
   "footer": {
     "aboutTitle": "Ordinary Tyrannosaurus Wiki",
-    "about": "Ordinary Tyrannosaurus Wiki is an independent fan-built guide hub covering the dinosaur story, characters, world lore, gameplay systems, and essential resources for new and veteran players alike.",
+    "about": "Ordinary Tyrannosaurus Wiki is an independent fan-built guide hub covering the dinosaur story, characters, world lore, reading resources, and essential information for new and veteran readers alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 Ordinary Tyrannosaurus Wiki. Not affiliated with the game's creators or rights holders.",
+    "copyright": "2026 Ordinary Tyrannosaurus Wiki. Not affiliated with the series' creators or rights holders.",
     "description": "Independent fan wiki for Ordinary Tyrannosaurus story, characters, world lore, and guides.",
-    "playGame": "Game Overview",
+    "playGame": "Series Overview",
     "characters": "Characters",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "gameOverview": "Game Overview",
+    "gameOverview": "Series Overview",
     "beginnerGuide": "Beginner Guide",
     "storyGuides": "Story Guides",
     "dinosaurGuides": "Dinosaur Guides",
