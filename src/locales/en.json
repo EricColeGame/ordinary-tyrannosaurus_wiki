@@ -43,288 +43,350 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Begin with the premise, the dinosaur lead, and a spoiler-light route through chapter one."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Story Order",
+          "description": "Follow the unexplained transfer, the Demon King encounter, and the escalating fallout in reading order."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Character Guide",
+          "description": "Meet the ordinary T. rex, the Demon King, and the onlookers who turn every misunderstanding into a legend."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Ordinary Tyrannosaurus."
+          "title": "Latest Chapter",
+          "description": "Use the official-series checklist to catch up, bookmark new releases, and avoid stale mirror pages."
         }
       ]
     },
     "popular": {
       "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "title": "Trending Ordinary Tyrannosaurus Guides",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Story Guide",
+        "Characters",
+        "Read Online"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Ordinary Tyrannosaurus Beginner Guide",
+          "description": "Start with the premise, the comedic voice, and a practical route through chapter one.",
+          "href": "/guide/ordinary-tyrannosaurus-chapter-1"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Story",
+          "title": "Ordinary Tyrannosaurus Story Explained",
+          "description": "Follow the T. rex isekai premise, the Demon King twist, and the series' action-comedy structure.",
+          "href": "/story/ordinary-tyrannosaurus-story"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Characters",
+          "title": "Dinosaur Protagonist",
+          "description": "Meet the ordinary T. rex whose appetite and mass rewrite a fantasy world's power hierarchy.",
+          "href": "/characters/ordinary-tyrannosaurus-dinosaur-protagonist"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Platforms",
+          "title": "Read Ordinary Tyrannosaurus Online",
+          "description": "Find the series, understand the vertical-scroll format, and build a safe reading routine.",
+          "href": "/platforms/ordinary-tyrannosaurus-read-online"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Story",
+          "title": "Plot and Demon King Encounter",
+          "description": "See how one accidental meal creates the reputation that drives the entire story.",
+          "href": "/story/ordinary-tyrannosaurus-plot"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Guide",
+          "title": "Cartoon Online Reading Guide",
+          "description": "A chapter-by-chapter entry point for readers who discovered the series through short clips.",
+          "href": "/guide/ordinary-tyrannosaurus-cartoon-online"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Story",
+          "title": "Latest Chapter Catch-Up",
+          "description": "Refresh the key beats, return to the right episode, and check official release channels.",
+          "href": "/story/ordinary-tyrannosaurus-latest-chapter"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "badge": "Guide",
+          "title": "Manhwa Reading Guide",
+          "description": "Understand the Korean webtoon format and the best way to start the series in order.",
+          "href": "/guide/ordinary-tyrannosaurus-manhwa"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Platforms",
+          "title": "Release and Chapter Availability",
+          "description": "Use the release guide to track official chapters without relying on mirror pages.",
+          "href": "/platforms/ordinary-tyrannosaurus-release-date"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Ordinary Tyrannosaurus?",
       "paragraphs": [
-        "Ordinary Tyrannosaurus is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Ordinary Tyrannosaurus is a Korean webtoon-style manhwa about a completely ordinary Tyrannosaurus rex who is pulled from its prehistoric life and dropped into a fantasy world without a prophecy, system, or cheat skill. Its advantage is simple: size, teeth, appetite, and the fact that nobody in the new world has planned for a dinosaur.",
+        "The story turns on one absurd accident: the T. rex eats the Demon King, then inherits the reputation and endless monstrous pursuit that come with it. Deadpan dinosaur behavior clashes with a world that reads every ordinary action as an extinction-level event, giving the series its action-comedy rhythm."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
-        },
-        {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Format",
+          "value": "Webtoon Manhwa"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Isekai Comedy"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Protagonist",
+          "value": "Ordinary T. rex"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Setting",
+          "value": "Fantasy World"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Core Hook",
+          "value": "Demon King Encounter"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Reading",
+          "value": "Vertical Scroll"
         }
       ],
-      "cta": "Explore All Guides"
+      "cta": "Explore Story Guides"
     },
     "explore": {
       "title": "Explore Ordinary Tyrannosaurus Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Follow the complete Ordinary Tyrannosaurus reading path: start with chapter one, understand the story and characters, check platform guidance, and track every new release.",
       "modules": [
         {
           "order": 1,
-          "name": "Ordinary Tyrannosaurus Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes",
-          "displayType": "code-box",
+          "name": "Ordinary Tyrannosaurus Beginner Guide",
+          "description": "Introduce the premise, the non-human lead, the vertical-scroll format, and a spoiler-light route into chapter one.",
+          "href": "/guide/ordinary-tyrannosaurus-chapter-1",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Meet the ordinary T. rex before the unexplained transfer to a fantasy world."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Read the opening for premise, comedic voice, and visual gags hidden in the backgrounds."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Treat the Demon King encounter as the series hook rather than a standalone clip."
+            },
+            {
+              "label": "4",
+              "detail": "Continue in order so the escalation and running misunderstandings land."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide",
-          "displayType": "feature-cards",
+          "name": "Ordinary Tyrannosaurus Gameplay Guide",
+          "description": "Understand the story engine: an unexplained isekai transfer, an accidental Demon King encounter, and a reputation that keeps attracting stronger monsters.",
+          "href": "/story/ordinary-tyrannosaurus-story",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Transfer",
+              "detail": "The T. rex moves to a fantasy world with no summoning ritual, tutorial, or chosen-one setup."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Accident",
+              "detail": "A confrontation with the Demon King ends when the dinosaur treats the final boss as food."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Fallout",
+              "detail": "Monsters pursue the new legend, turning a one-panel gag into ongoing stakes."
+            },
+            {
+              "label": "Instinct",
+              "detail": "Hunger, size, and momentum replace stat screens and skill-tree planning."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/tier-list",
-          "displayType": "tier-grid",
+          "name": "Ordinary Tyrannosaurus Codes",
+          "description": "Ordinary Tyrannosaurus is a webtoon rather than a code-driven game, so no redemption codes are listed; use this checklist to find official releases and avoid stale mirror pages.",
+          "href": "/platforms/ordinary-tyrannosaurus-read-online",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Official",
+              "detail": "Start with the publisher or licensed platform search rather than a general web search."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Title",
+              "detail": "Search both Ordinary Tyrannosaurus and the Korean title 평범한 티라노사우루스."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
-            },
-            {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Archive",
+              "detail": "Bookmark the series page so new chapters open from a stable catalog."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/skills",
-          "displayType": "feature-cards",
+          "name": "Ordinary Tyrannosaurus Controls",
+          "description": "Navigate the vertical-scroll manhwa comfortably with touch, mouse, and keyboard controls, and use platform tools to keep your place.",
+          "href": "/platforms/ordinary-tyrannosaurus-read-online",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Scroll",
+              "detail": "Use a continuous vertical scroll on phone or tablet for the intended episode flow."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Swipe",
+              "detail": "Swipe upward to advance panels and downward to revisit a reaction or background gag."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Keys",
+              "detail": "Use Space, Page Down, or the arrow keys when reading in a desktop browser."
+            },
+            {
+              "label": "Bookmark",
+              "detail": "Save the series page, not a single episode, to return to the current chapter list."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide",
-          "displayType": "feature-cards",
+          "name": "Ordinary Tyrannosaurus Progression Guide",
+          "description": "Follow the story's escalation from an ordinary prehistoric life to the Demon King encounter and the monstrous aftermath.",
+          "href": "/story/ordinary-tyrannosaurus-plot",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Begin with the T. rex living an ordinary life in its own prehistoric world."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "An unexplained transfer drops the dinosaur into a fantasy setting of magic, demons, and adventurers."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "An early confrontation ends with the Demon King devoured, immediately changing the power balance."
+            },
+            {
+              "label": "4",
+              "detail": "Escalating monsters and misunderstandings turn the dinosaur into a legend it never intended to become."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/skills",
-          "displayType": "feature-cards",
+          "name": "Ordinary Tyrannosaurus Tips and Tricks",
+          "description": "Practical reading habits for following the comedy, keeping the story order straight, and avoiding spoiler-heavy clips.",
+          "href": "/guide/ordinary-tyrannosaurus-cartoon-online",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Order",
+              "detail": "Start at episode one; the Demon King payoff depends on the buildup before it."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Official",
+              "detail": "Prefer a licensed platform for a stable archive, cleaner scans, and creator support."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Pace",
+              "detail": "Read five to ten short episodes at a time so running gags and reputation beats connect."
+            },
+            {
+              "label": "Spoilers",
+              "detail": "Mute panel-clip hashtags until you catch up; viral edits compress entire arcs."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Ordinary Tyrannosaurus Tier List",
+          "description": "An editorial ranking of the story's core roles by how much they drive the comedy, action, and escalation.",
+          "href": "/characters/ordinary-tyrannosaurus-dinosaur-protagonist",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "The ordinary T. rex: appetite, mass, and deadpan reactions power every major scene."
+            },
+            {
+              "label": "A",
+              "detail": "The Demon King: a genre-level threat converted into the series' defining payoff."
+            },
+            {
+              "label": "B",
+              "detail": "Rival monsters: each escalation tests the premise and resets the danger level."
+            },
+            {
+              "label": "C",
+              "detail": "Human onlookers: their panic and misinterpretations sell the scale mismatch."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Ordinary Tyrannosaurus FAQ",
+          "description": "Quick answers about the format, story order, official reading options, and chapter updates.",
+          "href": "/platforms/ordinary-tyrannosaurus-read-online",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Format",
+              "detail": "Ordinary Tyrannosaurus is a Korean vertical-scroll webtoon-style manhwa."
+            },
+            {
+              "label": "Start",
+              "detail": "Begin with chapter one and read in order for the full comedy and escalation."
+            },
+            {
+              "label": "Read",
+              "detail": "Use a licensed publisher or webtoon platform, then bookmark the series page."
+            },
+            {
+              "label": "Updates",
+              "detail": "Check the official series page for new episodes and translation timing."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Ordinary Tyrannosaurus.",
+      "title": "Ordinary Tyrannosaurus FAQ",
+      "description": "Quick answers to common questions about the Ordinary Tyrannosaurus manhwa, its story, and where to read it.",
       "items": [
         {
           "question": "What is Ordinary Tyrannosaurus?",
-          "answer": "Ordinary Tyrannosaurus is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Ordinary Tyrannosaurus is a Korean webtoon-style manhwa about an ordinary T. rex that is randomly transported into a fantasy world. It mixes isekai comedy with monster action, using the dinosaur's appetite and size as the source of both its power and its jokes."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Is Ordinary Tyrannosaurus a game or a webtoon?",
+          "answer": "Ordinary Tyrannosaurus is a webtoon-style manhwa, not a video game. It is read as a vertically scrolling comic, and this wiki covers its story, characters, reading order, and official platform options."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Should I start Ordinary Tyrannosaurus at chapter one?",
+          "answer": "Yes. Start Ordinary Tyrannosaurus at chapter one so the opening premise, the Demon King encounter, and the reputation jokes build in the intended order."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Where can I read Ordinary Tyrannosaurus online?",
+          "answer": "Search for Ordinary Tyrannosaurus on a licensed publisher or webtoon platform, then bookmark the series page rather than an individual chapter. That keeps the official episode list easy to reach."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does Ordinary Tyrannosaurus have redemption codes?",
+          "answer": "No. Ordinary Tyrannosaurus is a webtoon rather than a code-driven game, so there are no in-game redemption codes to enter. Use the platform guide to find official episodes and release information."
         }
       ]
     },
